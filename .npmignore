@@ -1,0 +1,11 @@
+.*
+/node_modules
+/src
+package-lock.json
+webpack.config.js
+index.html
+.babelrc
+.eslintrc.js
+.eslintrc.json
+.prettierrc
+yarn.lock
