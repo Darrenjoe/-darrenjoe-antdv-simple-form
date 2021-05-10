@@ -17,9 +17,6 @@ module.exports = {
     libraryTarget: 'umd',
     umdNamedDefine: true // 给 AMD 模块命名，否则匿名
   },
-  externals: {
-    vue: 'vue'
-  },
   module: {
     rules: [
       {

@@ -37,7 +37,7 @@ export default {
 | 参数               | 说明                   | 类型   | 默认值                                                                   |
 | ------------------ | ---------------------- | ------ | ------------------------------------------------------------------------ |
 | myForm             | 表单对象               | Object | {key: value}                                                             |
-| formRenderList     | 列表的渲染配置         | Object | -                                                                        |
+| formRenderList     | 列表的渲染配置         | Array  | -                                                                        |
 | formRules          | 列表的规则             | Object | -                                                                        |
 | formLayout         | 列表的自适应删栏       | Object | -                                                                        |
 | autoCompleteSource | 自动完成列表的渲染配置 | Object | 以 name 为单个 list 的键值，值为 Array(请用\$set 方法插值，否则监听不到) |

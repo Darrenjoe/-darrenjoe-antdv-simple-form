@@ -1,11 +1,12 @@
 .*
 /node_modules
 /src
-package-lock.json
-webpack.config.js
-index.html
 .babelrc
+.editorconfig
 .eslintrc.js
 .eslintrc.json
 .prettierrc
+index.html
+package-lock.json
+webpack.config.js
 yarn.lock
