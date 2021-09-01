@@ -1,3 +1,3 @@
-import DJoeSimpleForm from './components/SimpleForm'
+import DJoeSimpleForm from './components/index.vue'
 
 export default DJoeSimpleForm
